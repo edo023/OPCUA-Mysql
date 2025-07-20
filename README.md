@@ -2,6 +2,9 @@
 
 Questo progetto è un gateway Python che consente di acquisire variabili da più PLC tramite protocollo **OPC UA** e salvarle in un database **MySQL**. È pensato per applicazioni industriali di monitoraggio, tracciamento e storicizzazione dati.
 
+IMPORTANTE è un progetto open source e in quanto tale si accettano migliorie e suggerimenti.
+
+
 ## ⚙️ Caratteristiche principali
 
 - ✅ Supporta più PLC OPC UA, ognuno con URL, intervallo di scansione e variabili configurabili.
