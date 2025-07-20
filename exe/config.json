@@ -1,0 +1,11 @@
+{
+    "plcs": [],
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "progetto",
+        "table": "dati_variabili"
+    },
+    "autostart": false
+}

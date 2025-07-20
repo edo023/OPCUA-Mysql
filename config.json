@@ -1,0 +1,17 @@
+{
+    "plcs": [
+        {
+            "name": "PLC2",
+            "url": "opc.tcp://192.168.0.30:4840",
+            "scan_interval": 10.0,
+            "nodes": []
+        }
+    ],
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "progetto",
+        "table": "dati_variabili"
+    }
+}
